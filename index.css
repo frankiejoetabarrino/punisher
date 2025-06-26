@@ -1,0 +1,4 @@
+/* Stili per nav-item */
+.nav-item {
+  @apply flex flex-col items-center text-sm font-bold text-gray-300 hover:text-accent-red transition-colors duration-300 transform hover:scale-110;
+}
